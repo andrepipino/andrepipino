@@ -2,7 +2,7 @@
 - 👀 Maringá PR
 - 🌱 Estudante ensino médio 
 - 💞️ Sonho-agronomia 
-- 📫 Futebol
+- 🏐 vôlei
 
 <!---
 andrepipino/andrepipino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
